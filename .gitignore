@@ -1,18 +1,22 @@
-# Unity generated folders
+# Unity generated
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
-[Bb]uild/
-[Bb]uilds/
 [Ll]ogs/
 UserSettings/
+MemoryCaptures/
+Recordings/
+
+# Builds
+[Bb]uild/
+[Bb]uilds/
 
 # IDE
 .vs/
 .vscode/
 .idea/
 
-# Visual Studio / Rider generated files
+# Generated project files
 *.csproj
 *.sln
 *.slnx
@@ -21,6 +25,9 @@ UserSettings/
 *.pidb
 *.booproj
 
-# OS files
+# OS
 .DS_Store
 Thumbs.db
+
+.vsconfig
+ignore.conf
